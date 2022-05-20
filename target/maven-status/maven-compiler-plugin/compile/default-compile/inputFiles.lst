@@ -1,0 +1,15 @@
+/home/jakub/CodersLab/ProjectSpringHibernate/src/main/java/pl/coderslab/project/controllers/UserController.java
+/home/jakub/CodersLab/ProjectSpringHibernate/src/main/java/pl/coderslab/project/controllers/ExercisesController.java
+/home/jakub/CodersLab/ProjectSpringHibernate/src/main/java/pl/coderslab/project/entities/User.java
+/home/jakub/CodersLab/ProjectSpringHibernate/src/main/java/pl/coderslab/project/AppInitializer.java
+/home/jakub/CodersLab/ProjectSpringHibernate/src/main/java/pl/coderslab/project/controllers/TrainingPlanController.java
+/home/jakub/CodersLab/ProjectSpringHibernate/src/main/java/pl/coderslab/project/entities/Exercise.java
+/home/jakub/CodersLab/ProjectSpringHibernate/src/main/java/pl/coderslab/project/dao/UserDao.java
+/home/jakub/CodersLab/ProjectSpringHibernate/src/main/java/pl/coderslab/project/entities/Message.java
+/home/jakub/CodersLab/ProjectSpringHibernate/src/main/java/pl/coderslab/project/dao/TrainingPlanDao.java
+/home/jakub/CodersLab/ProjectSpringHibernate/src/main/java/pl/coderslab/project/entities/TrainingPlan.java
+/home/jakub/CodersLab/ProjectSpringHibernate/src/main/java/pl/coderslab/project/dao/ExercisesDao.java
+/home/jakub/CodersLab/ProjectSpringHibernate/src/main/java/pl/coderslab/project/WebConfig.java
+/home/jakub/CodersLab/ProjectSpringHibernate/src/main/java/pl/coderslab/project/controllers/HomeController.java
+/home/jakub/CodersLab/ProjectSpringHibernate/src/main/java/pl/coderslab/project/entities/DayName.java
+/home/jakub/CodersLab/ProjectSpringHibernate/src/main/java/pl/coderslab/project/AppConfig.java

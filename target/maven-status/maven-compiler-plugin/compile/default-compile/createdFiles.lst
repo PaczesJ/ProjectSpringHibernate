@@ -1,0 +1,15 @@
+pl/coderslab/project/entities/Exercise.class
+pl/coderslab/project/dao/ExercisesDao.class
+pl/coderslab/project/entities/DayName.class
+pl/coderslab/project/controllers/HomeController.class
+pl/coderslab/project/AppInitializer.class
+pl/coderslab/project/controllers/TrainingPlanController.class
+pl/coderslab/project/dao/TrainingPlanDao.class
+pl/coderslab/project/dao/UserDao.class
+pl/coderslab/project/controllers/ExercisesController.class
+pl/coderslab/project/controllers/UserController.class
+pl/coderslab/project/entities/Message.class
+pl/coderslab/project/entities/User.class
+pl/coderslab/project/WebConfig.class
+pl/coderslab/project/AppConfig.class
+pl/coderslab/project/entities/TrainingPlan.class
